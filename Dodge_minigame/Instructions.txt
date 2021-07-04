@@ -1,0 +1,6 @@
+How to play:
+Use mouse to dodge the attacks from aliens for 60 seconds.
+Use mouse wheel to adjust game play speed.
+Your remaining HP is indicated on the top right corner.
+The yellow button activates godmode.
+The red button terminates godmode.
